@@ -274,3 +274,9 @@ client/dist/
 client/node_modules/
 client/.svelte-kit/
 client/build/
+Flask
+Flask-SocketIO
+python-socketio
+python-engineio
+eventlet
+gunicorn
